@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Raul Fraile</title>
+<subtitle type="text">A short tagline2</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2013-12-17T18:03:23+01:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Raúl Fraile</name>
+  <uri>http://localhost:4000/</uri>
+  <email>raulfraile@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[2013, what a year!]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/2013-what-a-year" />
+  <id>http://localhost:4000/articles/2013-what-a-year</id>
+  <updated>2013-05-31T00:00:00-00:00</updated>
+  <published>2013-12-17T00:00:00+01:00</published>
+  
+  <author>
+    <name>Raúl Fraile</name>
+    <uri>http://localhost:4000</uri>
+    <email>raulfraile@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;I’ve been thinking for a long time to start a personal blog to share my thoughts about PHP, Symfony2 and all the random
+stuff I like to read about. To open this blog I’d like to talk about how 2013 has been for me and what I expect from 2014.
+Using SCRUM terminology, a &lt;em&gt;year retrospective&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Definitely, 2013 has been one of the most intense years of my whole life:&lt;/p&gt;
+
+&lt;h2 id=&quot;servergrove&quot;&gt;ServerGrove&lt;/h2&gt;
+
+&lt;p&gt;Last January &lt;a href=&quot;http://blog.servergrove.com/2013/01/03/raul-fraile-joins-servergrove/&quot;&gt;I joined ServerGrove&lt;/a&gt;, the &lt;em&gt;awesome&lt;/em&gt;
+PHP hosting company. I had been working the last year and a half as a Symfony2 trainer and freelance developer in some
+interesting projects, but I was willing to be part of a team and help to build something cool with a longer-term vision.&lt;/p&gt;
+
+&lt;p&gt;I am really happy with the decision I made, I’ve met talented people and we even won the &lt;a href=&quot;http://blog.servergrove.com/2013/12/13/call-us-award-winning/&quot;&gt;2013 Symfony Awards for Best
+B2B Website&lt;/a&gt;. We’ve been working hard in the latest months
+in the new version of the Control Panel, and it will be cooler and much much faster!&lt;/p&gt;
+
+&lt;h2 id=&quot;midwestphp&quot;&gt;MidwestPHP&lt;/h2&gt;
+
+&lt;p&gt;In February I had the honor to visit US and be one of the speakers of &lt;a href=&quot;http://midwestphp.org/&quot;&gt;MidwestPHP&lt;/a&gt;, which took
+place in the beautiful &lt;em&gt;Minnesota&lt;/em&gt;. It was my first time in the US and also the first time I was giving a talk in English,
+but according to the &lt;a href=&quot;https://joind.in/talk/view/8225&quot;&gt;ratings&lt;/a&gt;, people found my talk quite interesting! Symfony2 is
+still not widely used in the US but there were lots of Drupal developers eager to learn about the Symfony2 components
+that will be used in &lt;a href=&quot;https://drupal.org/&quot;&gt;Drupal 8&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;parenthood&quot;&gt;Parenthood&lt;/h2&gt;
+
+&lt;p&gt;May arrived with big news, my wife gave birth to our first son, &lt;em&gt;Eric&lt;/em&gt;. 7 months later, we are really happy but I can’t
+say it has been easy. I must admit that I love sleeping, so the worst part for me it has been sleeping only 3 or 4 hours
+during the first weeks. The most important is that Eric is healthy and is growing up normally.&lt;/p&gt;
+
+&lt;h2 id=&quot;desymfony&quot;&gt;deSymfony&lt;/h2&gt;
+
+&lt;p&gt;I have mixed feelings about &lt;a href=&quot;http://desymfony.com/&quot;&gt;deSymfony 2013&lt;/a&gt;. For the first time, organizers decided to move from
+Castellón - where the first three editions took place - to Madrid, and the response was overwhelming. Almost 400 people
+attended and I was one of speakers, giving a talk about &lt;em&gt;refactoring&lt;/em&gt; in PHP and Symfony2 projects. To be honest, I think
+it was the worst talk I’ve ever given and I was really disappointed with myself. I haven’t even been able to watch the
+video yet.&lt;/p&gt;
+
+&lt;p&gt;Keeping in mind that there were over 175 attendants with different programming skills, I tried to emphasize the importance
+to refactor your code in a daily basis, more than talking about refactoring patterns. I think it helped to beginners, but
+it was too simple for advanced programmers.&lt;/p&gt;
+
+&lt;h2 id=&quot;ladybugphp&quot;&gt;LadybugPHP&lt;/h2&gt;
+
+&lt;p&gt;I spent several months improving &lt;a href=&quot;https://github.com/raulfraile/ladybug&quot;&gt;LadybugPHP&lt;/a&gt;, and finally released the 1.0 version
+in September. I wanted to make &lt;em&gt;LadybugPHP&lt;/em&gt; more extensible and fix some wrong decisions I made in the early versions.&lt;/p&gt;
+
+&lt;p&gt;Even though there is still so much work to do, I couldn’t be happier with the end result:
+&lt;a href=&quot;https://packagist.org/packages/raulfraile/ladybug&quot;&gt;45,285 installs&lt;/a&gt;! :)&lt;/p&gt;
+
+&lt;h2 id=&quot;masters-degree&quot;&gt;Master’s degree&lt;/h2&gt;
+
+&lt;p&gt;In July I decided to enroll for a &lt;a href=&quot;http://cvnet.cpd.ua.es/webcvnet/planestudio/planestudiond.aspx?plan=D031&amp;amp;Lengua=E#&quot;&gt;MsC in Computing Technologies&lt;/a&gt;.
+When you work in the web industry, most of the time there is no need to use &lt;em&gt;real&lt;/em&gt; computer science skills, so I after
+several years, I felt my CS skills were extremely rusty.&lt;/p&gt;
+
+&lt;p&gt;During these three months, I have refreshed tons of important CS concepts learnt in the degree that I had forgotten, as well
+as learning new stuff - &lt;em&gt;always based on solid CS fundamentals&lt;/em&gt;- about information theory, data compression, human language
+technologies, biometry, cryptography and embedded systems.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-years-resolutions&quot;&gt;New year’s resolutions&lt;/h2&gt;
+
+&lt;p&gt;I consider myself an eternal learner, so obviously the new year’s resolutions have to do with the new stuff I want to learn.
+One of my biggest problems is that I like too many things, but having a job, a family and the MsC, it’s almost impossible
+to get extra time to learn, so one of my goals for 2014 is going to be to &lt;em&gt;focus&lt;/em&gt; in 2 fields: ‘web/frontend’ and
+‘systems’:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;‘web/frontend’: In 2013 I felt in love with JavaScript thanks to AngularJS. So the main goal in this branch will be to learn
+JavaScript &lt;em&gt;properly&lt;/em&gt; and be productive, as well as it’s ecosystem: &lt;a href=&quot;http://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt;, &lt;a href=&quot;http://gruntjs.com/&quot;&gt;Grunt&lt;/a&gt;,
+&lt;a href=&quot;http://nodejs.org/&quot;&gt;NodeJS&lt;/a&gt;…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;‘systems’: As a PHP programmer, I’d like to go down one step. That involves improving my Linux skills, C code - PHP
+extensions/source code -, memory management, filesystems… Long story short: try to master the &lt;em&gt;foundations&lt;/em&gt; where PHP
+lives on.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/2013-what-a-year&quot;&gt;2013, what a year!&lt;/a&gt; was originally published by Raúl Fraile at &lt;a href=&quot;http://localhost:4000&quot;&gt;Raul Fraile&lt;/a&gt; on December 17, 2013.&lt;/p&gt;</content>
+</entry>
+
+</feed>
