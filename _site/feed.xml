@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://raulfraile.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://raulfraile.github.io" />
-<updated>2013-12-17T22:46:10+01:00</updated>
+<updated>2013-12-17T23:08:34+01:00</updated>
 <id>http://raulfraile.github.io/</id>
 <author>
   <name>Raúl Fraile</name>
@@ -75,12 +75,12 @@ it was too simple for advanced programmers.&lt;/p&gt;
 in September. I wanted to make &lt;em&gt;LadybugPHP&lt;/em&gt; more extensible and fix some wrong decisions I made in the early versions.&lt;/p&gt;
 
 &lt;p&gt;Even though there is still so much work to do, I couldn’t be happier with the end result:
-&lt;a href=&quot;https://packagist.org/packages/raulfraile/ladybug&quot;&gt;45,285 installs&lt;/a&gt;! :)&lt;/p&gt;
+&lt;a href=&quot;https://packagist.org/packages/raulfraile/ladybug&quot;&gt;45,285 installs&lt;/a&gt; so far! :)&lt;/p&gt;
 
 &lt;h2 id=&quot;masters-degree&quot;&gt;Master’s degree&lt;/h2&gt;
 
 &lt;p&gt;In July I decided to enroll for a &lt;a href=&quot;http://cvnet.cpd.ua.es/webcvnet/planestudio/planestudiond.aspx?plan=D031&amp;amp;Lengua=E#&quot;&gt;MsC in Computing Technologies&lt;/a&gt;.
-When you work in the web industry, most of the time there is no need to use &lt;em&gt;real&lt;/em&gt; computer science skills, so I after
+When you work in the web industry, most of the time there is no need to use &lt;em&gt;real&lt;/em&gt; computer science skills, so after
 several years, I felt my CS skills were extremely rusty.&lt;/p&gt;
 
 &lt;p&gt;During these three months, I have refreshed tons of important CS concepts learnt in the degree that I had forgotten, as well
@@ -114,7 +114,7 @@ lives on.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Keep improving LadybugPHP.&lt;/li&gt;
   &lt;li&gt;Try to write more, both here and in the &lt;a href=&quot;http://blog.servergrove.com/tag/symfony2-components/&quot;&gt;ServerGrove’s blog&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Don’t miss another SymfonyCon, ever! :)&lt;/li&gt;
+  &lt;li&gt;Don’t miss another &lt;a href=&quot;http://warsaw2013.symfony.com/&quot;&gt;SymfonyCon&lt;/a&gt;, ever! :)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;See you in the next post!&lt;/p&gt;
