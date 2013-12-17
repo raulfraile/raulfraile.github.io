@@ -21,7 +21,8 @@
   {% for post in site.posts limit:5 %}    
   <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
     <h1><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h1>
-      {{ post.content }}
+      <a href="{{ post.url }}">{{ post.excerpt }}</a>
+      <a href="{{ post.url }}" style="margin-top:-1em; float: right">read more...</a>
   </article>
   {% endfor %}
 </div><!-- /#index -->
