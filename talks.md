@@ -11,6 +11,47 @@ image:
   creditlink: http://texturelovers.com
 ---
 
+### JS Conf EU 2014
+
+#### “How GZIP compression works”
+
+Berlin, Germany. September 13-14, 2014.
+
+- [Slides](www.slideshare.net/raulfraile/how-gzip-compression-works-js-conf-eu-2014)
+
+***
+
+### FrOSCon 2014
+
+#### “$kernel->infect(): Creating a cryptovirus for Symfony apps”
+
+Sankt Augustin, Germany. August 23-24, 2014.
+
+- [Slides](http://www.slideshare.net/raulfraile/kernelinfect-creating-a-cryptovirus-for-symfony2-apps)
+
+***
+
+### deSymfonyDay 2014
+
+#### “$kernel->infect(): Creating a cryptovirus for Symfony apps”
+
+Barcelona, Spain. May, 31, 2014.
+
+- [Slides](http://www.slideshare.net/raulfraile/kernelinfect-creating-a-cryptovirus-for-symfony2-apps)
+
+***
+
+### DrupalCampSpain 2014
+
+#### “Symfony in Drupal 8”
+
+Valencia, Spain. May, 16-18, 2014.
+
+- Slides: [Spanish](http://www.slideshare.net/raulfraile/symfony-en-drupal-8-drupalcamp-spain)
+- Video: [Spanish](http://vimeo.com/98201836)
+
+***
+
 ### deSymfony 2013
 
 #### “Refactoring PHP/Symfony2 apps”
