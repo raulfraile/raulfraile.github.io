@@ -18,3 +18,11 @@ Ladybug is a PHP 5.3+ extensible dumper.
 
 - [GitHub project](https://github.com/raulfraile/ladybug)
 - [Symfony2 bundle](https://github.com/raulfraile/LadybugBundle)
+
+### Distill
+
+Smart compressed files extractor for PHP.
+
+- [GitHub project](https://github.com/raulfraile/distill)
+- [CLI tool](https://github.com/raulfraile/distill-cli)
+- [Symfony2 bundle](https://github.com/raulfraile/distill-bundle)
