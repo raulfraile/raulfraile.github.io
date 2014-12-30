@@ -15,7 +15,7 @@ I had the great opportunity to go to **Miami** last February to spend two weeks 
   
 ## Conferences
 
-It was a great year for conferences! In addition to the conference in Miami, I spoke at [3 different countries in 6 conferences](http://lanyrd.com/profile/raulfraile/), mainly about malicious cryptography and data compression. Two topics that I felt in love with this year.
+It was a great year for conferences! In addition to the conference in Miami, I spoke at [6 different conferences in 3 countries](http://lanyrd.com/profile/raulfraile/), mainly about malicious cryptography and data compression. Two topics that I felt in love with this year.
 
 In November, I visited Stockholm (Sweden) to talk about “Malicious cryptography in Symfony apps” in the [Symfony November Camp](www.symfony.se/november-camp/). I loved this conference. I usually prefer small conferences as you can talk or go out for dinner with most of the people. Talks were also great and I was very happy to finally meet [Matthias Noback](https://twitter.com/matthiasnoback) and the two organizers and hosts of the great [Sound of Symfony podcast](http://www.soundofsymfony.com/): [Magnus Nordlander](https://twitter.com/drrotmos) and [Tobias Nyholm](https://twitter.com/TobiasNyholm). 
 
