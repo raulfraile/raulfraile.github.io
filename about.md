@@ -15,7 +15,7 @@ Hello! My name is Raul Fraile and I live in Alicante – Spain.
 
 I am a passionate developer, currently focused on PHP and Symfony2. Also interested in performance and all the foundations of computer science, like data structures, algorithms, information theory and data compression.
 
-I work as a Senior Software Engineer at [ServerGrove](http://servergrove.com) and run the [AlicantePHP User Group](http://alicantephp.es).
+I work as a Senior Software Engineer at [Acilia](http://acilia.es/).
 
 ### Education
 
