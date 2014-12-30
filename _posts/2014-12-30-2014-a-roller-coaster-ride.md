@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2014: A roller coaster ride
+title: 2014, A roller coaster ride
 description: "2014 retrospective"
 modified: 2014-12-30
 category: articles
